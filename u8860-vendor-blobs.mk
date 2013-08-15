@@ -122,4 +122,3 @@ PRODUCT_COPY_FILES += \
     vendor/huawei/u8860/proprietary/wifi/firmware_apsta.bin:system/wifi/firmware_apsta.bin \
     vendor/huawei/u8860/proprietary/wifi/nvram.txt:system/wifi/nvram.txt \
     vendor/huawei/u8860/proprietary/etc/bluetooth/BCM4329.hcd:system/etc/bluetooth/BCM4329.hcd \
-    vendor/huawei/u8860/proprietary/bin/brcm_patchram_plus:system/bin/brcm_patchram_plus
